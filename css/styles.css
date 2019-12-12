@@ -86,13 +86,13 @@ color: #40514e;
 }
 
 .brush {
-width: 25%;
+width: 180px;
 float: left;
 margin-right: 30px;
 }
 
 .piano {
-width: 25%;
+width: 200px;
 float: right;
 margin-left: 30px;
 }
@@ -101,13 +101,26 @@ margin-left: 30px;
 /*clear: left;*/
 }
 
+.hr2 {
+ border-width: 5px;
+  border-style: dotted none none;
+  width: 40px;
+  border-color: #dbf0f0;
+  Margin-top: 100px;
+}
+
+.contact-text {
+Margin-bottom: 60px;
+}
 
 .contact-me {
   margin-bottom: 30px;
 }
 
 .testbutton {
-  font-family: arial;
+
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   color: #FFFFFF !important;
   font-size: 16px;
